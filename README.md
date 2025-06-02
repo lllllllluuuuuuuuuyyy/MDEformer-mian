@@ -1,7 +1,6 @@
-## MDEformer
+## MDEformer: A Spatio-Temporal Decoupling Transformer with the Multidimensional Information Encoding for Certain Traffic Flow Prediction
 
 #### Required Packages
-
 ```
 pytorch>=1.11
 numpy
